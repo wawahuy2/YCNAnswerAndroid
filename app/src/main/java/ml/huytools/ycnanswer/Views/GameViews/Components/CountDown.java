@@ -24,7 +24,7 @@ import ml.huytools.ycnanswer.Views.GameViews.RenderLooper;
  * Update: 20/11/2019
  *
  * CountDown la thanh phan View ket xuat dem nguoc thoi gian
- *
+ * Test
  */
 public class CountDown extends SurfaceView implements RenderLooper.ILooper, SurfaceHolder.Callback {
 
